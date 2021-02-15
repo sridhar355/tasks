@@ -17,5 +17,4 @@ for j in range(n):
             count=count+1
     if(count>0):
         opstr=opstr+str(count)
-
 print(opstr)
